@@ -18,6 +18,9 @@ target/
 # Object serialization logs
 *.dat
 
+# Exported mission reports
+*.csv
+
 # IDE files
 .idea/
 *.iml
